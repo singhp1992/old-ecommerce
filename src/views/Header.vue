@@ -8,3 +8,10 @@
     <router-link to="/cart">Shopping Cart</router-link>
   </div>
 </template>Î
+
+<script> 
+</script>
+
+<style>
+
+</style>
