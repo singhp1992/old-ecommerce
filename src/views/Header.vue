@@ -10,6 +10,12 @@
 </template>Î
 
 <script> 
+export default {
+  name: "header",
+  components: {
+    
+  }
+};
 </script>
 
 <style>
