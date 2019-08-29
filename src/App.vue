@@ -4,6 +4,17 @@
   </div>
 </template>
 
+<script>
+import Title from "@/components/Title.vue";
+
+export default {
+  name: "home",
+  components: {
+    Header
+  }
+};
+</script>
+
 <style>
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
